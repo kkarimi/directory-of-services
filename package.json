@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "async": "^2.6.1",
-    "nodemailer": "^4.6.5"
-  }
-}
